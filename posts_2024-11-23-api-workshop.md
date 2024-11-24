@@ -2,6 +2,9 @@
 title: "How to get started on APIs"
 layout: post
 date: 2024-11-23
+author: Alberto Sandoval
+categories: [API, tutorial, history]
+tags: [beginner, blog]
 ---
 
 In this blog post, I will quickly explain some
