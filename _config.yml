@@ -1,3 +1,7 @@
 theme: minima
 title: On Enjoying The Ride
 author: Alberto Domingo Sandoval
+
+# Extra CSS files
+extra_css:
+    - "assets/css/custom.css"
