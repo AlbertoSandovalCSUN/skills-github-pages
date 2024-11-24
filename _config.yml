@@ -3,5 +3,8 @@ title: On Enjoying The Ride
 author: Alberto Domingo Sandoval
 
 # Extra CSS files
-extra_css:
-    - "assets/css/custom.css"
+sass:
+    style: compressed
+extra:
+    css:
+        - "assets/css/custom.css"
